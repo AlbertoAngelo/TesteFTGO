@@ -10,6 +10,11 @@ namespace TESTE_8888.Controllers
     {
         // GET: FTgo
         public ActionResult Index()
+        
+        {
+            return View();
+        }
+        public ActionResult Cadastrocliente()
         {
             return View();
         }
