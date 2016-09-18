@@ -18,5 +18,10 @@ namespace TESTE_8888.Controllers
         {
             return View();
         }
+
+        public ActionResult LocalizarFt()
+        {
+            return View();
+        }
     }
 }
