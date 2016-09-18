@@ -17,6 +17,10 @@ namespace TESTE_8888.Controllers
         public ActionResult Cadastrocliente()
         {
             return View();
-        }     
+        }
+        public ActionResult LocalizarFt()
+        {
+            return View();
+        }
     }
 }
