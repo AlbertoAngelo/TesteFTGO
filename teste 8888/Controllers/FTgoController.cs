@@ -10,7 +10,7 @@ namespace TESTE_8888.Controllers
     {
         // GET: FTgo
         public ActionResult Index()
-        
+
         {
             return View();
         }
@@ -23,6 +23,11 @@ namespace TESTE_8888.Controllers
             return View();
         }
         public ActionResult CadastroFT()
+        {
+            return View();
+        }
+
+        public ActionResult CadastroProduto()
         {
             return View();
         }
