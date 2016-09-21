@@ -31,5 +31,10 @@ namespace TESTE_8888.Controllers
         {
             return View();
         }
+
+        public ActionResult AvaliarFt()
+        {
+            return View();
+        }
     }
 }

@@ -121,6 +121,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="estilo.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="JavaScript.js" />
@@ -160,6 +161,7 @@
     <Content Include="Views\FTgo\CadastroFT.cshtml" />
     <Content Include="Views\FTgo\LocalizarFt.cshtml" />
     <Content Include="Views\FTgo\CadastroProduto.cshtml" />
+    <Content Include="Views\FTgo\AvaliarFt.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
